@@ -17,7 +17,11 @@ A Linear Regression model to predict the car prices for the U.S market to help a
 
 7- Removing Multicollinearity, Model Re-evaluation and Assumptions Validation
 
-#Visualization Excerpts
+# Visualization Excerpts
+
+# 1.  Model Predictions vs Actual values
+![alt text] (https://imghostr.com/mBn337D6)
+
 
 
 
