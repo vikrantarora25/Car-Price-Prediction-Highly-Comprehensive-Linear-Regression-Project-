@@ -28,21 +28,26 @@ Determining optimum number of features in model by checking performance metrics 
 
 ![](images/R2_RMSE_by_features.png)
 
+
 # Linear Regression Assumptions Validation
+
 
 Assumption_Presence of Linear Relationship: Holds as residuals more or less evenly scattered vs predicted values
 
 ![](images/linearity_assumption.png)
 
 
-Assumption_Presence of Homoscedasticity: Both graphs show evenly spread residuals so homoscedasticity is present
+
+#Assumption_Presence of Homoscedasticity: Both graphs show evenly spread residuals so homoscedasticity is present
 
 ![](images/homoscedacity_assumption.png)
+
 
 
 Assumption_Normality of Residuals: Q-Q plot shows residuals is mostly normal except at upper tail, but other 4 tests all show normality at 5% signi. level
 
 ![](images/Normality_of_errors_assumption.png)
+
 
 
 Assumption_Absence of Outliers: No point beyong cooks distance line so no outlier is present
