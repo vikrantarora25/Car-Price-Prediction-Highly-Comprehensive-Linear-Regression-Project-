@@ -57,4 +57,4 @@ Determining optimum number of features in model by checking performance metrics 
 
 ![](images/Outlier_detection.png)
 
-# The final model meets all the assumptions including no mutlicollinearity and has an R-Square of 86% 
+# The final model meets all the assumptions including no mutlicollinearity and has an R-Square of 86% which is satisfactory given small dataset/less data for training the model.
