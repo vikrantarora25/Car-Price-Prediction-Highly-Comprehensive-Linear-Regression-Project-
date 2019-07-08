@@ -12,7 +12,7 @@
 
 4- Feature Selection using RFE and Model Building  
 
-5- Linear Regression Assumptions Validation and **Outlier Removal**
+5- **Linear Regression Assumptions Validation and Outlier Removal**
 
 6- **Rebuilding the Model Post Outlier Removal: Feature Selection using K-Fold Cross Validation & RFE**  
 
