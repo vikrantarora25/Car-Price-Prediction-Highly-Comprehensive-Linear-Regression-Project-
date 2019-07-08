@@ -17,9 +17,40 @@ A Linear Regression model to predict the car prices for the U.S market to help a
 
 7- Removing Multicollinearity, Model Re-evaluation and Assumptions Validation
 
-## Visualization Excerpts
+# Model Predictions vs Actual Values
 
-##1.  Model Predictions vs Actual values
+![](images/Actuals_vs_Predictions.png)
+
+
+# R-Squared & RMSE by number of features
+
+Determining optimum number of features in model by checking performance metrics R-Squared and RMSE at different counts of features
+
+![](images/R2_RMSE_by_features.png)
+
+# Linear Regression Assumptions Validation
+
+Assumption: Presence of Linear Relationship
+
+![](images/linearity_assumption.png)
+
+
+Assumption: Presence of Homoscedasticity
+
+![](images/homoscedacity_assumption.png)
+
+
+Assumption: Normality of Residuals
+
+![](images/Normality_of_errors_assumption.png)
+
+
+Assumption: Absence of Outliers
+
+![](images/Outlier_detection.png)
+
+
+
 
 
 
