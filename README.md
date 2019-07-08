@@ -58,3 +58,6 @@ Determining optimum number of features in model by checking performance metrics 
 ![](images/Outlier_detection.png)
 
 # The final model meets all the assumptions including no mutlicollinearity and has an R-Square of 86% which is satisfactory given small dataset/less data for training the model.
+
+If you face any loading issues with jupyter notebook then check the notebook via nbviewer: 
+[NBVIEWER_LINK] (https://nbviewer.jupyter.org/github/vikrantarora25/Car-Price-Prediction-Highly-Comprehensive-Linear-Regression-Project-/blob/master/Car%20Price%20Prediction_MLR%20Project_Github_VIKRANTARORA25.ipynb)
