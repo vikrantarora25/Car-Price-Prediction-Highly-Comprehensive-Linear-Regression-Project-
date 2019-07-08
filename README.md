@@ -53,3 +53,5 @@ Assumption_Normality of Residuals: Q-Q plot shows residuals is mostly normal exc
 Assumption_Absence of Outliers: No point beyong cooks distance line so no outlier is present
 
 ![](images/Outlier_detection.png)
+
+# The final model meets all the assumptions including no mutlicollinearity and has an R-Square of 86% 
