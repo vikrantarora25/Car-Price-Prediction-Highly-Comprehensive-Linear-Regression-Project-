@@ -1,7 +1,7 @@
-# Car-Price-Prediction-Highly-Comprehensive-Linear-Regression-Project-
+## Car-Price-Prediction-Highly-Comprehensive-Linear-Regression-Project-
 A Linear Regression model to predict the car prices for the U.S market to help a new entrant understand important pricing factors/variables in the U.S automobile industry. A highly comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, evaluation and MLR assumptions validity steps explained in detail.
 
-# The jupyter notebook has follwing sections:
+## The jupyter notebook has following sections:
 
 1- Data understanding and exploration 
 
@@ -17,10 +17,9 @@ A Linear Regression model to predict the car prices for the U.S market to help a
 
 7- Removing Multicollinearity, Model Re-evaluation and Assumptions Validation
 
-# Visualization Excerpts
+## Visualization Excerpts
 
-# 1.  Model Predictions vs Actual values
-![alt text] (https://imghostr.com/mBn337D6)
+##1.  Model Predictions vs Actual values
 
 
 
