@@ -48,10 +48,3 @@ Assumption: Normality of Residuals
 Assumption: Absence of Outliers
 
 ![](images/Outlier_detection.png)
-
-
-
-
-
-
-
